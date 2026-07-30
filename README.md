@@ -33,10 +33,11 @@ pnpm build
 
 - `src/main.jsx`：交互与画布渲染
 - `src/styles.css`：界面样式
-- `src/assets/demo-portrait.png`：内置演示图
+- `src/assets/demo-portrait.jpg`：内置演示图
 - `vite.config.js`：单文件离线构建配置
 - `index.html`：可直接打开的构建成品
 
 ## 说明
 
 本仓库只包含编辑器源代码和必要演示素材，不包含参考视频、逐帧分析文件或内部过程资料。
+
